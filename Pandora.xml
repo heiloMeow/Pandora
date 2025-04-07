@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\QingyueQin\Desktop\DECO3850\3850Example\3850Example.jar</jar>
+  <outfile>C:\Users\QingyueQin\Desktop\Pandora 1.0.0.3\Pandora.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\QingyueQin\Desktop\DECO3850\3850Example\pic\icon.ico</icon>
+  <classPath>
+    <mainClass>io.Main</mainClass>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.3</fileVersion>
+    <txtFileVersion>1.0.PAND</txtFileVersion>
+    <fileDescription>Pandora Systrem</fileDescription>
+    <copyright>Team Pandora</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.PAND</txtProductVersion>
+    <productName>Pandora Mushroom</productName>
+    <companyName></companyName>
+    <internalName>Pandora Mushroom</internalName>
+    <originalFilename>Pandora.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
